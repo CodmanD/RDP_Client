@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sun Nov 19 10:04:17 EET 2017
+2.base=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\control.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+count=6
+0.file=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=DEX
+1.file=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=C\:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+0.set=ANDROID_RESOURCE

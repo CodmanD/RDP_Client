@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\layout_control.xml.flat",
+        "source": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\src\\main\\res\\layout\\control.xml"
+    },
+    {
+        "merged": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\layout_control.xml.flat",
+        "source": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\src\\main\\res\\layout\\control.xml"
+    },
+    {
+        "merged": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\DIMA\\Android-remote-client-master\\Android-remote-client-master\\touch\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\__STUDY\\ANDROID\\EXAMPLES\\Android-remote-client-master\\touch\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
